@@ -258,12 +258,6 @@ export default {
 | title    | `string` | Set Bottomsheet item title | ![android](https://cdn4.iconfinder.com/data/icons/logos-3/228/android-16.png)  ![apple](https://cdn3.iconfinder.com/data/icons/picons-social/57/16-apple-16.png) |
 
 
-## Limitations
-
-### iOS
-
-Currently on ios adding more than four tabs will ressort having your text animations cut.
-
 ## Author
 
 Jonathan Mayunga, mayunga.j@gmail.com
